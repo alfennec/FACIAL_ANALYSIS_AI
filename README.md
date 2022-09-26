@@ -1,8 +1,11 @@
 # DEEP LEARNING BASED GENERATION OF VIRTUAL FACES USING PORTRAIT SPECIFICATIONS
 
-The goal of this repository is to create deep learning-based tools for generating human faces based on text description, following the methodology presented in the next image :
+The goal of this repository is to create deep learning-based tools for generating human faces based on text description, following the methodology presented in the next images :
 
 <img src="methodology.png" width="800px" height="350px"/>
+
+<img src="methodology2.png" width="800px" height="350px"/>
+
 
 
 ### cite our work
