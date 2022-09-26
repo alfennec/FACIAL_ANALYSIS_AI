@@ -48,3 +48,12 @@ keywords = {Composite Face,Deep Learning,Generative Adversarial Networks,Image G
 title = {{Review of DL-Based Generation Techniques of Augmented Images using Portraits Specification}},
 }
 ```
+
+
+```
+## TODO
+   - ADD README TO Facial_Attribute_Classification
+   - ADD README TO T2I_AUTOENCODER_BASED
+   - ADD GENERATED SAMPLES
+   - OPTIMISE THE CODES
+   - COMPARE BETWEEN AUTOENCODE AND GAN
