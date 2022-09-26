@@ -1,6 +1,3 @@
-# AUTOMATIC GENERATION OF VIRTUAL IMAGES USING DEEP LEARNING BASED ON PORTRAIT SPECIFICATIONS
-
-
 # DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis
 
 
