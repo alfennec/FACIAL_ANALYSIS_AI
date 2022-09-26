@@ -1,4 +1,4 @@
-# FACIAL_ANALYSIS_AI
+# DEEP LEARNING BASED GENERATION OF VIRTUAL FACES USING PORTRAIT SPECIFICATIONS
 
 The goal of this repository is to create deep learning-based tools for generating human faces based on text description, following the methodology presented in the next image :
 
