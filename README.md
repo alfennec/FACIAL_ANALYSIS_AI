@@ -2,7 +2,7 @@
 
 The goal of this repository is to create deep learning-based tools for generating human faces based on text description, following the methodology presented in the next image
 
-<img src="methodology.png" width="804px" height="380px"/>
+<img src="methodology.png" width="400px" height="800px"/>
 
 
 ### cite our work
