@@ -23,23 +23,23 @@ cd DF-GAN/code/
 ```
 
 ### Datasets Preparation
-1. Download the preprocessed metadata for [celebA](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) and save it to `data/`
-2. Download the [celebA](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data. Extract them to `data/birds/`
+1. Download the preprocessed metadata for [celeba](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) and save it to `data/`
+2. Download the [celeba](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data. Extract them to `data/birds/`
 
 ### Pre-trained text encoder
-1. Download the [pre-trained text encoder](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V) for celebA and save it to `DAMSMencoders/celebA/inception/`
+1. Download the [pre-trained text encoder](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V) for celeba and save it to `DAMSMencoders/celeba/`
 ---
 ### Training
 
 **Train DF-GAN models:**
-  - For bird dataset: `python main.py --cfg cfg/celebA.yml`
+  - For celeba dataset: `python main.py --cfg cfg/celeba.yml`
 
 - `*.yml` files are example configuration files for training/evaluation our models.
 
 ### Evaluating
 
 **Dwonload Pretrained Model**
-- [DF-GAN for celebA](https://drive.google.com/file/d/1svVTyKWj5B1J82rEiZILUS289DsmT6U7/view?usp=sharing). Download and save it to `models/celebA/`
+- [DF-GAN for celeba](https://drive.google.com/file/d/1svVTyKWj5B1J82rEiZILUS289DsmT6U7/view?usp=sharing). Download and save it to `models/celeba/`
 - 
 ### Citing DF-GAN
 
