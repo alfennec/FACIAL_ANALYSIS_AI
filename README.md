@@ -1,5 +1,10 @@
 # FACIAL_ANALYSIS_AI
 
+The goal of this repository is to create deep learning-based tools for generating human faces based on text description, following the methodology presented in the next image
+
+<img src="methodology.png" width="804px" height="380px"/>
+
+
 ### cite our work
 
 If you find Our repository useful in your research, please consider citing our paper:
