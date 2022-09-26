@@ -10,7 +10,7 @@ The goal of this repository is to create deep learning-based tools for generatin
 
 <img src="result.png" width="900px" height="450px"/>
 
-### cite our work
+### Cite our work
 
 If you find Our repository useful in your research, please consider citing our paper:
 
