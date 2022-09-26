@@ -1,6 +1,6 @@
 # FACIAL_ANALYSIS_AI
 
-### Citing Our Work
+### cite our work
 
 If you find Our repository useful in your research, please consider citing our paper:
 
