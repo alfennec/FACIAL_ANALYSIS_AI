@@ -8,7 +8,7 @@ The goal of this repository is to create deep learning-based tools for generatin
 
 ### result achieved so far
 
-<img src="result.png" width="900px" height="350px"/>
+<img src="result.png" width="900px" height="400px"/>
 
 ### cite our work
 
