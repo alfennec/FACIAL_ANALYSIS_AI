@@ -6,7 +6,7 @@ The goal of this repository is to create deep learning-based tools for generatin
 
 <img src="methodology2.png" width="900px" height="350px"/>
 
-##result achieved so far
+### result achieved so far
 
 <img src="result2.png" width="900px" height="350px"/>
 
