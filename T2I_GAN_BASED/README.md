@@ -14,17 +14,17 @@
 ### Installation
 
 Clone this repo.
-```
-git clone https://github.com/tobran/DF-GAN
-cd DF-GAN/code/
-```
 
-### Datasets Preparation
-1. Download the preprocessed metadata for [celeba](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) and save it to `data/`
-2. Download the [celeba](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data. Extract them to `data/birds/`
+## Data
+
+- Download our preprocessed text for [CelebA](https://drive.google.com/open?id=1N5NLcqjV6IL_ZWwdm2mdZQ6dUyphxnVb) and extract them to `data/CelebA/`
+  - file directory example: `data/CelebA/text/0/000012.txt`
+- Download the preprocessed [CelebA](https://drive.google.com/open?id=1d_XYCGnXE8AmrKM6Ioo-7hRHhb-Dc04F) image data and extract them to `data/CelebA/`
+  - file directory example: `data/CelebA/images/000012.jpg`
+
 
 ### Pre-trained text encoder
-1. Download the [pre-trained text encoder](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V) for celeba and save it to `DAMSMencoders/celeba/`
+1. Download the [pre-trained text encoder](https://drive.google.com/drive/folders/12KQwUIaRjb1ffYhvX1yzhMnoX69P6FZ6?usp=sharing) for celeba and save it to `DAMSMencoders/celeba/`
 ---
 ### Training
 
@@ -36,7 +36,7 @@ cd DF-GAN/code/
 ### Evaluating
 
 **Dwonload Pretrained Model**
-- [DF-GAN for celeba](https://drive.google.com/file/d/1svVTyKWj5B1J82rEiZILUS289DsmT6U7/view?usp=sharing). Download and save it to `models/celeba/`
+- [DF-GAN for celeba](https://drive.google.com/file/d/1OHq2WxiNSHpNxgop0I3_RIRSk29-f4LU/view?usp=sharing). Download and save it to `models/celeba/`
 - 
 ### Citing DF-GAN
 
