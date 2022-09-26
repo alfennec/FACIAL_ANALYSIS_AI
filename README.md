@@ -50,8 +50,9 @@ title = {{Review of DL-Based Generation Techniques of Augmented Images using Por
 ```
 
 
-```
-## TODO
+
+### TODO
+
    - ADD README TO Facial_Attribute_Classification
    - ADD README TO T2I_AUTOENCODER_BASED
    - ADD GENERATED SAMPLES
